@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexanderMortimer
 - 👀 I’m interested in Automation and Programming solution for challenges.
-- 🌱 I’m currently learning Jenkins,CI/CD ,... and all things related to QA.
+- 🌱 I’m currently learning Django and python basics.
 - 📫 How to reach me: m.oskuei@gmail.com
 
 <!---
